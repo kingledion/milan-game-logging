@@ -1,0 +1,30 @@
+opponent: Roma
+competition: Serie A
+year: 2023-2024
+location: away
+date: 230901
+goals:
+  - score: 0-0
+    touches:
+      - player: Thiaw
+    attack:
+      - type: dribble
+        player: Loftus-Cheek
+      - type: pass
+        player: Giroud
+    finish:
+      - type: penalty
+        player: Loftus-Cheek
+  - score: 1-0
+    touches:
+      - player: Pulisic
+      - player: Reijnders
+    attack:
+      - type: cross
+        player: Calabria
+    finish:
+      - type: goal
+        player: Leao
+        draw: [Giroud]
+
+    

@@ -1,0 +1,23 @@
+opponent: Inter
+competition: Serie A
+year: 2023-2024
+location: away
+date: 230916
+goals:
+  - score: 0-2
+    recovery:
+      - player: Thiaw
+        type: takeaway
+    touches:
+      - player: Reijnders
+    attack:
+      - player: Theo
+        type: pass
+      - player: Giroud
+        type: pass
+        tag: [tight]
+    finish:
+      - player: Leao
+        type: goal
+
+

@@ -1,0 +1,67 @@
+opponent: Torino
+competition: Serie A
+year: 2023-2024
+location: home
+date: 230826
+goals:
+  - score: 0-0
+    recovery:
+      - type: takeaway
+        player: Krunic
+    attack:
+      - type: pass
+        player: Tomori
+      - type: pass
+        player: Pulisic
+      - type: dribble
+        player: Loftus-Cheek
+      - type: pass
+        player: Loftus-Cheek
+        draw: [Giroud]
+    finish:
+      - type: goal
+        player: Pulisic
+  - score: 1-1
+    attack:
+      - type: pass
+        player: Leao
+  - score: 2-1
+    recovery:
+      - type: takeaway
+        player: Tomori
+      - type: pressure
+        player: Calabria
+    touches:
+      - player: Loftus-Cheek
+      - player: Pulisic
+      - player: Theo
+      - player: Theo
+    attack:
+      - type: dribble
+        player: Thiaw
+      - type: pass
+        player: Krunic
+      - type: pass
+        player: Leao
+      - type: pass
+        player: Leao
+        tag: [tight]
+    finish:
+      - type: goal
+        player: Theo
+  - score: 3-1
+    attack:
+      - type: pass
+        player: Thiaw
+      - type: pass
+        player: Reijnders
+      - type: dribble
+        player: Leao
+    finish:
+      - type: penalty
+        player: Leao
+
+
+
+    
+    

@@ -1,0 +1,37 @@
+opponent: Lazio
+competition: Serie A
+year: 2023-2024
+location: home
+date: 230930
+goals:
+  - score: 0-0
+    recovery:
+      - player: Theo
+        type: loose
+    attack:
+      - player: Theo
+        type: pass
+      - player: Adli
+        type: pass
+      - player: Reijnders
+        type: pass
+      - player: Leao
+        type: pass
+    finish:
+      - player: Pulisic
+        type: goal
+  - score: 1-0
+    attack:
+      - player: Theo
+        type: pass
+      - player: Pobega
+        type: pass
+      - player: Leao
+        type: dribble
+      - player: Leao
+        type: pass
+    finish:
+      - player: Okafor
+        type: goal
+
+

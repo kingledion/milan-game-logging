@@ -1,0 +1,38 @@
+opponent: Bologna
+competition: Serie A
+year: 2023-2024
+location: away
+date: 230821
+goals:
+  - score: 0-0
+    recovery: 
+      - type: loose
+        player: Calabria
+    attack:
+      - type: pass
+        player: Pulisic
+        draw: [Leao]
+      - type: pass
+        player: Reijnders
+    finish:
+      - type: goal
+        player: Giroud
+  - score: 1-0
+    touch:
+      - player: Giroud
+      - player: Loftus-Cheek
+    attack:
+      - type: pass
+        player: Thiaw
+      - type: pass
+        player: Pulisic
+        tags: [tight]
+        draw: [Loftus-Cheek]
+      - type: pass
+        player: Giroud
+        tags: [tight]
+    finish:
+      - type: goal
+        player: Pulisic
+
+

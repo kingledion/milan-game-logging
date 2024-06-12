@@ -1,0 +1,42 @@
+opponent: Cagliari
+competition: Serie A
+year: 2023-2024
+location: away
+date: 230927
+goals:
+  - score: 0-1
+    touches:
+      - player: Thiaw
+    attack:
+      - player: Adli
+        type: pass
+        tag: [tight]
+      - player: Reijnders
+        type: pass
+      - player: Pulisic
+        type: dribble
+      - player: Pulisic
+        type: cross
+    finish:
+      - player: Okafor
+        type: goal
+  - score: 1-1
+    touches:
+      - player: Adli
+    finish:
+      - player: Reijnders
+        type: shot
+      - player: Tomori
+        type: goal
+  - score: 2-1
+    touches: 
+      - player: Pulisic
+    finish:
+      - player: Loftus-Cheek
+        type: goal
+    
+
+
+
+      
+

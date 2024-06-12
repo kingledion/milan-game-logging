@@ -1,0 +1,18 @@
+opponent: HellasVerona
+competition: Serie A
+year: 2023-2024
+location: home
+date: 230923
+goals:
+  - score: 0-0
+    recovery:
+      - player: Pulisic
+        type: takeaway
+    attack:
+      - player: Giroud
+        type: pass
+      - player: Leao
+        type: dribble
+    finish:
+      - player: Leao
+        type: goal
